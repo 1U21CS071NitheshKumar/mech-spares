@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda+SC:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&display=swap');
+
+
+.adm4{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 75px;
+    color: white;
+    background-color: rgb(120, 12, 12) ;
+}
+.adm1{
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    width: 75%;
+}
+.adm2,.adm3{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+    padding: 10px 10px;
+    margin: 0 10px;
+    cursor: pointer;
+    margin-top: 5px;
+    margin-right: 50px;
+    font-size: 25px;
+}
+.adm5{
+    font-family: "Bodoni Moda SC", serif;
+    font-size: 33px;
+}
+
+@media only screen and (max-width: 780px){
+    .adm4{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        height: 75px;
+        color: white;
+        background-color: rgb(120, 12, 12) ;
+    }
+    .adm1{
+        display: flex;
+        justify-content: flex-end;
+        list-style: none;
+        width: 75%;
+    }
+    .adm2,.adm3{
+        text-decoration: none;
+        color:white;
+        font-size: 20px;
+        padding: 10px 10px;
+        margin: 0 10px;
+        cursor: pointer;
+        margin-top: 5px;
+        margin-right: 50px;
+        font-size: 25px;
+    }
+    .adm5{
+        font-family: "Bodoni Moda SC", serif;
+        font-size: 33px;
+    }
+}
+@media only screen and (max-width: 412px){
+    .adm4{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        height: 75px;
+        color: white;
+        background-color: rgb(120, 12, 12) ;
+    }
+    .adm1{
+        display: flex;
+        justify-content: flex-end;
+        list-style: none;
+        width: 75%;
+    }
+    .adm2,.adm3{
+        text-decoration: none;
+        color:white;
+        font-size: 20px;
+        padding: 10px 10px;
+        margin: 0 10px;
+        cursor: pointer;
+        margin-top: 5px;
+        margin-right: -4px;
+        font-size: 15px;
+    }
+    .adm5{
+        font-family: "Bodoni Moda SC", serif;
+        font-size: 22px;
+    }
+}

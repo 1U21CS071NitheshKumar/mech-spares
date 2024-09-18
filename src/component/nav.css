@@ -1,0 +1,373 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda+SC:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&display=swap');
+
+
+.z{
+    width: 100%;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-shadow: border-box;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 75px;
+    color: white;
+    background-color: black ;
+    
+}
+.nav-link{
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    width: 75%;
+}
+.nav1,.nav2,.nav3,.nav4{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+    padding: 10px 10px;
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+li:hover{
+    text-decoration: underline;
+}
+.nav5{
+    display: none;
+}
+.logo{
+    font-family: "Bodoni Moda SC", serif;
+}
+.logo1{
+    margin-left: -20px;
+}
+.icon-btn{
+    font-size: 30px;
+    margin-top: -14px;
+    margin-left: -44px;
+    /* background-color: transparent; */
+}
+.icon-btn1{
+    background-color: transparent;
+    border: none;
+}
+.bi-person-circle{
+color: white;
+}
+
+
+
+
+@media screen and (max-width:780px){
+
+    .logo{
+        font-family: "Bodoni Moda SC", serif;
+        display: flex;
+        position: absolute;
+        left: 5;
+        top: 25px;
+    }
+    .z{
+        width: 100%;
+    }
+    .nav-link{
+        display: none;
+    }
+    .nav-link-mob{
+        position: absolute;
+        display: block;
+        list-style: none;
+        background-color:black;
+        left: 0;
+        top: 15px;
+        transition: all 0.5s ease-out;
+        width: 100%;
+        font-size: 20px;
+    }
+    .nav1,.nav2,.nav3,.nav4{
+        color:white;
+        text-align: center;
+        transition: all 0.5s ease-out;
+        width: 100%;
+        padding: 32px;
+    }
+    .nav5{
+        display: block;
+        position: absolute;
+        font-size: 30px;
+        color: white;
+        background-color:black;
+        outline: none;
+        top: 15px;
+        right: 130px ;   
+        /* margin-top: 100px; */
+    }
+    .icon-btn{
+        font-size: 32px;
+        margin-top: 3px;
+        margin-left: 605px ;
+    background-color: transparent;
+
+        
+    }
+    .icon-btn1{
+        background-color: transparent;
+        border: none;
+    }
+
+    
+    .nav1 li{
+        margin-top: -25px;
+        margin-left: -482px;
+    }
+    .nav2 li{
+        margin-top: -60px;
+        margin-left: -219px;
+    }
+    .nav3 li{
+        margin-top: -60px;
+        margin-left: 50px;
+    }
+    .nav4 li{
+        margin-top: -60px;
+        margin-left: 315px;
+    }
+       
+}
+
+
+@media screen and (max-width: 431px) {
+    .z{
+        width: 100%;
+    }
+    .logo{
+        font-family: "Bodoni Moda SC", serif;
+        display: flex;
+        position: absolute;
+        left: 75px;
+        top: 25px;
+    }
+    .z{
+        width: 100%;
+    }
+    .nav-link{
+        display: none;
+    }
+    .nav-link-mob{
+        position: absolute;
+        display: block;
+        list-style: none;
+        background-color:black;
+        left: 0;
+        top: 15px;
+        transition: all 0.5s ease-out;
+        width: 100%;
+        font-size: 20px;
+    }
+    .nav1,.nav2,.nav3,.nav4{
+        color:white;
+        text-align: center;
+        transition: all 0.5s ease-out;
+        width: 100%;
+        padding: 32px;
+    }
+    .nav5{
+        display: block;
+        position: absolute;
+        font-size: 30px;
+        color: white;
+        background-color:black;
+        outline: none;
+        top: 15px;
+        right: 78px ;   
+        /* margin-top: 100px; */
+    }
+    .icon-btn{
+        font-size: 32px;
+        margin-top: 3px;
+        margin-left: 313px ;
+    background-color: transparent;
+
+        
+    }
+    .icon-btn1{
+        background-color: transparent;
+        border: none;
+    }
+
+    
+    .nav1 li{
+        margin-top: -25px;
+        margin-left: -373px;
+    }
+    .nav2 li{
+        margin-top: -60px;
+        margin-left: -170px;
+    }
+    .nav3 li{
+        margin-top: -60px;
+        margin-left: 50px;
+    }
+    .nav4 li{
+        margin-top: -60px;
+        margin-left: 315px;
+    }
+}
+
+
+@media screen and (max-width: 426px) {
+    
+    .logo{
+        font-family: "Bodoni Moda SC", serif;
+        display: flex;
+        position: absolute;
+        left: 75px;
+        top: 25px;
+    }
+    .z{
+        width: 100%;
+    }
+    .nav-link{
+        display: none;
+    }
+    .nav-link-mob{
+        position: absolute;
+        display: block;
+        list-style: none;
+        background-color:black;
+        left: 0;
+        top: 15px;
+        transition: all 0.5s ease-out;
+        width: 100%;
+        font-size: 20px;
+    }
+    .nav1,.nav2,.nav3,.nav4{
+        color:white;
+        text-align: center;
+        transition: all 0.5s ease-out;
+        width: 100%;
+        padding: 32px;
+    }
+    .nav5{
+        display: block;
+        position: absolute;
+        font-size: 30px;
+        color: white;
+        background-color:black;
+        outline: none;
+        top: 15px;
+        right: 78px ;   
+        /* margin-top: 100px; */
+    }
+    .icon-btn{
+        font-size: 32px;
+        margin-top: 3px;
+        margin-left: 313px ;
+    background-color: transparent;
+
+        
+    }
+    .icon-btn1{
+        background-color: transparent;
+        border: none;
+    }
+
+    
+    .nav1 li{
+        margin-top: -25px;
+        margin-left: -373px;
+    }
+    .nav2 li{
+        margin-top: -60px;
+        margin-left: -170px;
+    }
+    .nav3 li{
+        margin-top: -60px;
+        margin-left: 50px;
+    }
+    .nav4 li{
+        margin-top: -60px;
+        margin-left: 315px;
+    }
+}
+
+
+@media screen and (max-width: 375px) {
+    
+    .logo{
+        font-family: "Bodoni Moda SC", serif;
+        display: flex;
+        position: absolute;
+        left: 75px;
+        top: 25px;
+    }
+    .z{
+        width: 100%;
+    }
+    .nav-link{
+        display: none;
+    }
+    .nav-link-mob{
+        position: absolute;
+        display: block;
+        list-style: none;
+        background-color:black;
+        left: 0;
+        top: 15px;
+        transition: all 0.5s ease-out;
+        width: 100%;
+        font-size: 20px;
+    }
+    .nav1,.nav2,.nav3,.nav4{
+        color:white;
+        text-align: center;
+        transition: all 0.5s ease-out;
+        width: 100%;
+        padding: 32px;
+    }
+    .nav5{
+        display: block;
+        position: absolute;
+        font-size: 30px;
+        color: white;
+        background-color:black;
+        outline: none;
+        top: 15px;
+        right: 55px ;   
+        /* margin-top: 100px; */
+    }
+    .icon-btn{
+        font-size: 32px;
+        margin-top: 3px;
+        margin-left: 313px ;
+    background-color: transparent;
+
+        
+    }
+    .icon-btn1{
+        background-color: transparent;
+        border: none;
+    }
+
+    
+    .nav1 li{
+        margin-top: -25px;
+        margin-left: -305px;
+        font-size: 17px;
+    }
+    .nav2 li{
+        margin-top: -54px;
+        margin-left: -129px;
+        font-size: 17px;
+    }
+    .nav3 li{
+        margin-top: -56px;
+        margin-left: 50px;
+        font-size: 17px;
+    }
+    
+}

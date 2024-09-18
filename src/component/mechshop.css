@@ -1,0 +1,1837 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
+
+
+.mech1 {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    box-shadow: 1px 1px 1px brown;
+}
+
+.mechp1 {
+    display: flex;
+}
+
+.mechp1-c1 {
+    width: 40%;
+    height: 95%;
+    margin-left: 20px;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.mechp1-c2 h2 {
+    margin-left: -450px;
+    font-family: "Inconsolata", monospace;
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.mechp1-c2_p1 {
+    margin-left: -423px;
+    font-size: 19px;
+    margin-top: 30px;
+}
+
+.mechp1-c2_p2 {
+    margin-left: -423px;
+    font-size: 19px;
+    margin-top: -5px;
+}
+
+.mechp1-c2 button {
+    margin-left: -425px;
+    margin-top: -3px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border: none;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.mechp1-c2 button:hover {
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
+
+.mechp1-icon1 {
+    font-size: 17px;
+}
+
+.mechp2 {
+    display: flex;
+}
+
+.mechp2-c1 {
+    width: 74%;
+    height: 95%;
+    margin-left: 20px;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.mechp2-c2 {
+    margin-left: 720px;
+}
+
+.mechp2-c2 h2 {
+    margin-left: -450px;
+    font-family: "Inconsolata", monospace;
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.mechp2-c2_p1 {
+    margin-left: -423px;
+    font-size: 19px;
+    margin-top: 30px;
+}
+
+.mechp2-c2_p2 {
+    margin-left: -423px;
+    font-size: 19px;
+    margin-top: -5px;
+}
+
+.mechp2-c2 button {
+    margin-left: -425px;
+    margin-top: 17px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border: none;
+    border: 1px solid black;
+    border-radius: 5px;
+
+}
+
+.mechp2-c2 button:hover {
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+}
+
+.mechp1-icon1 {
+    font-size: 17px;
+}
+
+
+
+.mechp3 {
+    display: flex;
+}
+
+.mechp3-c1 {
+    width: 100%;
+    height: 95%;
+    margin-left: 20px;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.mechp3-c2 {
+    margin-left: 720px;
+}
+
+.mechp3-c2 h2 {
+    margin-left: -450px;
+    font-family: "Inconsolata", monospace;
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.mechp3-c2_p1 {
+    margin-left: -423px;
+    font-size: 19px;
+    margin-top: 30px;
+}
+
+.mechp3-c2_p2 {
+    margin-left: -423px;
+    font-size: 19px;
+    margin-top: -5px;
+}
+
+.mechp3-c2 button {
+    margin-left: -425px;
+    margin-top: 17px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.mechp3-c2 button:hover {
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+}
+
+.mechp3-icon1 {
+    font-size: 17px;
+}
+
+
+
+.mechp4 {
+    display: flex;
+}
+
+.mechp4-c1 {
+    width: 132%;
+    height: 95%;
+    margin-left: 20px;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.mechp4-c2 {
+    margin-left: 720px;
+}
+
+.mechp4-c2 h2 {
+    margin-left: -450px;
+    font-family: "Inconsolata", monospace;
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.mechp4-c2_p1 {
+    margin-left: -423px;
+    font-size: 19px;
+    margin-top: 30px;
+}
+
+.mechp4-c2_p2 {
+    margin-left: -423px;
+    font-size: 19px;
+    margin-top: -5px;
+}
+
+.mechp4-c2 button {
+    margin-left: -425px;
+    margin-top: 17px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.mechp4-c2 button:hover {
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+}
+
+.mechp4-icon1 {
+    font-size: 17px;
+}
+
+
+.mechp1-c1-change1 {
+    width: 34%;
+    height: 95%;
+    margin-left: 20px;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.mechp1-c1-change2 {
+    width: 34%;
+    height: 94%;
+    margin-left: 20px;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-bottom: -11px;
+}
+
+.mechp1-c1-change3 {
+    width: 35%;
+    height: 90%;
+    margin-left: 20px;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-bottom: -30px;
+}
+
+.mechp1-c1-change4 {
+    width: 35%;
+    height: 90%;
+    margin-left: 20px;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-bottom: -30px;
+}
+
+.mechp4-c1-change5 {
+    width: 35%;
+    height: 93%;
+    margin-left: 20px;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-bottom: -32px;
+}
+
+.mechp1-c2-change1 {
+    margin-left: 500px;
+}
+
+.z7 {
+    width: 100%;
+}
+
+@media (max-width: 780px) {
+
+    .z7 {
+        width: 100%;
+    }
+
+    .mech1 {
+        margin-top: 50px;
+        margin-left: 50px;
+        margin-right: 50px;
+        box-shadow: 1px 1px 1px brown;
+    }
+
+    .mechp1 {
+        display: flex;
+    }
+
+    .mechp1-c1 {
+        width: 40%;
+        height: 95%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+
+    .mechp1-c2 h2 {
+        margin-left: -335px;
+        font-family: "Inconsolata", monospace;
+        font-size: 28px;
+        font-weight: bold;
+        margin-top: 30px;
+    }
+
+    .mechp1-c2_p1 {
+        margin-left: -309px;
+        font-size: 19px;
+        margin-top: 20px;
+    }
+
+    .mechp1-c2_p2 {
+        margin-left: -309px;
+        font-size: 19px;
+        margin-top: -5px;
+    }
+
+    .mechp1-c2 button {
+        margin-left: -313px;
+        margin-top: -3px;
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        border: none;
+        border: 1px solid black;
+        border-radius: 5px;
+    }
+
+    .mechp1-c2 button:hover {
+        background-color: black;
+        color: white;
+        border-radius: 20px;
+    }
+
+    .mechp1-icon1 {
+        font-size: 17px;
+    }
+
+    .mechp2 {
+        display: flex;
+    }
+
+    .mechp2-c1 {
+        width: 1006%;
+        height: 95%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+
+    .mechp2-c2 {
+        margin-left: 720px;
+    }
+
+    .mechp2-c2 h2 {
+        margin-left: -450px;
+        font-family: "Inconsolata", monospace;
+        font-size: 28px;
+        font-weight: bold;
+        margin-top: 30px;
+    }
+
+    .mechp2-c2_p1 {
+        margin-left: -423px;
+        font-size: 19px;
+        margin-top: 30px;
+    }
+
+    .mechp2-c2_p2 {
+        margin-left: -423px;
+        font-size: 19px;
+        margin-top: -5px;
+    }
+
+    .mechp2-c2 button {
+        margin-left: -425px;
+        margin-top: 17px;
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        border: none;
+        border: 1px solid black;
+        border-radius: 5px;
+
+    }
+
+    .mechp2-c2 button:hover {
+        border-radius: 20px;
+        background-color: black;
+        color: white;
+    }
+
+    .mechp1-icon1 {
+        font-size: 17px;
+    }
+
+
+
+    .mechp3 {
+        display: flex;
+    }
+
+    .mechp3-c1 {
+        width: 1000%;
+        height: 95%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+
+    .mechp3-c2 {
+        margin-left: 720px;
+    }
+
+    .mechp3-c2 h2 {
+        margin-left: -450px;
+        font-family: "Inconsolata", monospace;
+        font-size: 28px;
+        font-weight: bold;
+        margin-top: 30px;
+    }
+
+    .mechp3-c2_p1 {
+        margin-left: -423px;
+        font-size: 19px;
+        margin-top: 30px;
+    }
+
+    .mechp3-c2_p2 {
+        margin-left: -423px;
+        font-size: 19px;
+        margin-top: -5px;
+    }
+
+    .mechp3-c2 button {
+        margin-left: -425px;
+        margin-top: 17px;
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        border: none;
+        border: 1px solid black;
+        border-radius: 5px;
+        margin-bottom: 20px;
+    }
+
+    .mechp3-c2 button:hover {
+        border-radius: 20px;
+        background-color: black;
+        color: white;
+    }
+
+    .mechp3-icon1 {
+        font-size: 17px;
+    }
+
+
+
+    .mechp4 {
+        display: flex;
+    }
+
+    .mechp4-c1 {
+        width: 1000%;
+        height: 95%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+
+    .mechp4-c2 {
+        margin-left: 720px;
+    }
+
+    .mechp4-c2 h2 {
+        margin-left: -450px;
+        font-family: "Inconsolata", monospace;
+        font-size: 35px;
+        font-weight: bold;
+        margin-top: 30px;
+    }
+
+    .mechp4-c2_p1 {
+        margin-left: -423px;
+        font-size: 19px;
+        margin-top: 30px;
+    }
+
+    .mechp4-c2_p2 {
+        margin-left: -423px;
+        font-size: 19px;
+        margin-top: -5px;
+    }
+
+    .mechp4-c2 button {
+        margin-left: -425px;
+        margin-top: 17px;
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        border: none;
+        border: 1px solid black;
+        border-radius: 5px;
+        margin-bottom: 20px;
+    }
+
+    .mechp4-c2 button:hover {
+        border-radius: 20px;
+        background-color: black;
+        color: white;
+    }
+
+    .mechp4-icon1 {
+        font-size: 17px;
+    }
+
+
+    .mechp1-c1-change1 {
+        width: 34%;
+        height: 95%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .mechp1-c1-change2 {
+        width: 34%;
+        height: 94%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: -11px;
+    }
+
+    .mechp1-c1-change3 {
+        width: 35%;
+        height: 90%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: -30px;
+    }
+
+    .mechp1-c1-change4 {
+        width: 35%;
+        height: 90%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: -30px;
+    }
+
+    .mechp4-c1-change5 {
+        width: 35%;
+        height: 93%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: -32px;
+    }
+
+    .mechp1-c2-change1 {
+        margin-left: 500px;
+    }
+}
+
+
+@media (max-width: 780px) {
+    .mech1 {
+        margin-top: 50px;
+        margin-left: 50px;
+        margin-right: 50px;
+        box-shadow: 1px 1px 1px brown;
+    }
+
+    .mechp1 {
+        display: flex;
+    }
+
+    .mechp1-c1 {
+        width: 40%;
+        height: 95%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+
+    .mechp1-c2 h2 {
+        margin-left: -450px;
+        font-family: "Inconsolata", monospace;
+        font-size: 35px;
+        font-weight: bold;
+        margin-top: 30px;
+    }
+
+    .mechp1-c2_p1 {
+        margin-left: -423px;
+        font-size: 19px;
+        margin-top: 30px;
+    }
+
+    .mechp1-c2_p2 {
+        margin-left: -423px;
+        font-size: 19px;
+        margin-top: -5px;
+    }
+
+    .mechp1-c2 button {
+        margin-left: -425px;
+        margin-top: -3px;
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        border: none;
+        border: 1px solid black;
+        border-radius: 5px;
+    }
+
+    .mechp1-c2 button:hover {
+        background-color: black;
+        color: white;
+        border-radius: 20px;
+    }
+
+    .mechp1-icon1 {
+        font-size: 17px;
+    }
+
+    .mechp2 {
+        display: flex;
+    }
+
+    .mechp2-c1 {
+        width: 74%;
+        height: 95%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+
+    .mechp2-c2 {
+        margin-left: 720px;
+    }
+
+    .mechp2-c2 h2 {
+        margin-left: -450px;
+        font-family: "Inconsolata", monospace;
+        font-size: 35px;
+        font-weight: bold;
+        margin-top: 30px;
+    }
+
+    .mechp2-c2_p1 {
+        margin-left: -423px;
+        font-size: 19px;
+        margin-top: 30px;
+    }
+
+    .mechp2-c2_p2 {
+        margin-left: -423px;
+        font-size: 19px;
+        margin-top: -5px;
+    }
+
+    .mechp2-c2 button {
+        margin-left: -425px;
+        margin-top: 17px;
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        border: none;
+        border: 1px solid black;
+        border-radius: 5px;
+
+    }
+
+    .mechp2-c2 button:hover {
+        border-radius: 20px;
+        background-color: black;
+        color: white;
+    }
+
+    .mechp1-icon1 {
+        font-size: 17px;
+    }
+
+
+
+    .mechp3 {
+        display: flex;
+    }
+
+    .mechp3-c1 {
+        width: 100%;
+        height: 95%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+
+    .mechp3-c2 {
+        margin-left: 720px;
+    }
+
+    .mechp3-c2 h2 {
+        margin-left: -450px;
+        font-family: "Inconsolata", monospace;
+        font-size: 35px;
+        font-weight: bold;
+        margin-top: 30px;
+    }
+
+    .mechp3-c2_p1 {
+        margin-left: -423px;
+        font-size: 19px;
+        margin-top: 30px;
+    }
+
+    .mechp3-c2_p2 {
+        margin-left: -423px;
+        font-size: 19px;
+        margin-top: -5px;
+    }
+
+    .mechp3-c2 button {
+        margin-left: -425px;
+        margin-top: 17px;
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        border: none;
+        border: 1px solid black;
+        border-radius: 5px;
+        margin-bottom: 20px;
+    }
+
+    .mechp3-c2 button:hover {
+        border-radius: 20px;
+        background-color: black;
+        color: white;
+    }
+
+    .mechp3-icon1 {
+        font-size: 17px;
+    }
+
+
+
+    .mechp4 {
+        display: flex;
+    }
+
+    .mechp4-c1 {
+        width: 132%;
+        height: 95%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+
+    .mechp4-c2 {
+        margin-left: 720px;
+    }
+
+    .mechp4-c2 h2 {
+        margin-left: -450px;
+        font-family: "Inconsolata", monospace;
+        font-size: 35px;
+        font-weight: bold;
+        margin-top: 30px;
+    }
+
+    .mechp4-c2_p1 {
+        margin-left: -423px;
+        font-size: 19px;
+        margin-top: 30px;
+    }
+
+    .mechp4-c2_p2 {
+        margin-left: -423px;
+        font-size: 19px;
+        margin-top: -5px;
+    }
+
+    .mechp4-c2 button {
+        margin-left: -425px;
+        margin-top: 17px;
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        border: none;
+        border: 1px solid black;
+        border-radius: 5px;
+        margin-bottom: 20px;
+    }
+
+    .mechp4-c2 button:hover {
+        border-radius: 20px;
+        background-color: black;
+        color: white;
+    }
+
+    .mechp4-icon1 {
+        font-size: 17px;
+    }
+
+
+    .mechp1-c1-change1 {
+        width: 34%;
+        height: 95%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .mechp1-c1-change2 {
+        width: 34%;
+        height: 94%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: -11px;
+    }
+
+    .mechp1-c1-change3 {
+        width: 35%;
+        height: 90%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: -30px;
+    }
+
+    .mechp1-c1-change4 {
+        width: 35%;
+        height: 90%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: -30px;
+    }
+
+    .mechp4-c1-change5 {
+        width: 35%;
+        height: 93%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: -32px;
+    }
+
+    .mechp1-c2-change1 {
+        margin-left: 500px;
+    }
+}
+
+@media (max-width: 780px) {
+    .mech1 {
+        margin-top: 50px;
+        margin-left: 50px;
+        margin-right: 50px;
+        box-shadow: 1px 1px 1px brown;
+    }
+
+    .mechp1 {
+        display: flex;
+    }
+
+    .mechp1-c1 {
+        width: 40%;
+        height: 95%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+
+    .mechp1-c2 h2 {
+        margin-left: -335px;
+        font-family: "Inconsolata", monospace;
+        font-size: 28px;
+        font-weight: bold;
+        margin-top: 30px;
+    }
+
+    .mechp1-c2_p1 {
+        margin-left: -309px;
+        font-size: 19px;
+        margin-top: 20px;
+    }
+
+    .mechp1-c2_p2 {
+        margin-left: -309px;
+        font-size: 19px;
+        margin-top: -5px;
+    }
+
+    .mechp1-c2 button {
+        margin-left: -313px;
+        margin-top: -3px;
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        border: none;
+        border: 1px solid black;
+        border-radius: 5px;
+    }
+
+    .mechp1-c2 button:hover {
+        background-color: black;
+        color: white;
+        border-radius: 20px;
+    }
+
+    .mechp1-icon1 {
+        font-size: 17px;
+    }
+
+    .mechp2 {
+        display: flex;
+    }
+
+    .mechp2-c1 {
+        width: 1006%;
+        height: 95%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+
+    .mechp2-c2 {
+        margin-left: 720px;
+    }
+
+    .mechp2-c2 h2 {
+        margin-left: -450px;
+        font-family: "Inconsolata", monospace;
+        font-size: 28px;
+        font-weight: bold;
+        margin-top: 30px;
+    }
+
+    .mechp2-c2_p1 {
+        margin-left: -423px;
+        font-size: 19px;
+        margin-top: 30px;
+    }
+
+    .mechp2-c2_p2 {
+        margin-left: -423px;
+        font-size: 19px;
+        margin-top: -5px;
+    }
+
+    .mechp2-c2 button {
+        margin-left: -425px;
+        margin-top: 17px;
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        border: none;
+        border: 1px solid black;
+        border-radius: 5px;
+
+    }
+
+    .mechp2-c2 button:hover {
+        border-radius: 20px;
+        background-color: black;
+        color: white;
+    }
+
+    .mechp1-icon1 {
+        font-size: 17px;
+    }
+
+
+
+    .mechp3 {
+        display: flex;
+    }
+
+    .mechp3-c1 {
+        width: 1000%;
+        height: 95%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+
+    .mechp3-c2 {
+        margin-left: 720px;
+    }
+
+    .mechp3-c2 h2 {
+        margin-left: -450px;
+        font-family: "Inconsolata", monospace;
+        font-size: 28px;
+        font-weight: bold;
+        margin-top: 30px;
+    }
+
+    .mechp3-c2_p1 {
+        margin-left: -423px;
+        font-size: 19px;
+        margin-top: 30px;
+    }
+
+    .mechp3-c2_p2 {
+        margin-left: -423px;
+        font-size: 19px;
+        margin-top: -5px;
+    }
+
+    .mechp3-c2 button {
+        margin-left: -425px;
+        margin-top: 17px;
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        border: none;
+        border: 1px solid black;
+        border-radius: 5px;
+        margin-bottom: 20px;
+    }
+
+    .mechp3-c2 button:hover {
+        border-radius: 20px;
+        background-color: black;
+        color: white;
+    }
+
+    .mechp3-icon1 {
+        font-size: 17px;
+    }
+
+
+
+    .mechp4 {
+        display: flex;
+    }
+
+    .mechp4-c1 {
+        width: 1000%;
+        height: 95%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+
+    .mechp4-c2 {
+        margin-left: 720px;
+    }
+
+    .mechp4-c2 h2 {
+        margin-left: -450px;
+        font-family: "Inconsolata", monospace;
+        font-size: 35px;
+        font-weight: bold;
+        margin-top: 30px;
+    }
+
+    .mechp4-c2_p1 {
+        margin-left: -423px;
+        font-size: 19px;
+        margin-top: 30px;
+    }
+
+    .mechp4-c2_p2 {
+        margin-left: -423px;
+        font-size: 19px;
+        margin-top: -5px;
+    }
+
+    .mechp4-c2 button {
+        margin-left: -425px;
+        margin-top: 17px;
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        border: none;
+        border: 1px solid black;
+        border-radius: 5px;
+        margin-bottom: 20px;
+    }
+
+    .mechp4-c2 button:hover {
+        border-radius: 20px;
+        background-color: black;
+        color: white;
+    }
+
+    .mechp4-icon1 {
+        font-size: 17px;
+    }
+
+
+    .mechp1-c1-change1 {
+        width: 34%;
+        height: 95%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .mechp1-c1-change2 {
+        width: 34%;
+        height: 94%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: -11px;
+    }
+
+    .mechp1-c1-change3 {
+        width: 35%;
+        height: 90%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: -30px;
+    }
+
+    .mechp1-c1-change4 {
+        width: 35%;
+        height: 90%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: -30px;
+    }
+
+    .mechp4-c1-change5 {
+        width: 35%;
+        height: 93%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: -32px;
+    }
+
+    .mechp1-c2-change1 {
+        margin-left: 500px;
+    }
+}
+
+
+@media (max-width: 426px) {
+
+    .z7 {
+        width: 100%;
+    }
+
+    .mech1 {
+        margin-top: 50px;
+        margin-left: 50px;
+        margin-right: 50px;
+        box-shadow: 1px 1px 1px brown;
+    }
+
+    .mechp1 {
+        display: flex;
+    }
+
+    .mechp1-c1 {
+        width: 88%;
+        height: 45%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+
+    .mechp1-c2 h2 {
+        margin-left: -235px;
+        font-family: "Inconsolata", monospace;
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 200px;
+    }
+
+    .mechp1-c2_p1 {
+        margin-left: -248px;
+        font-size: 16px;
+        margin-top: 0px;
+    }
+
+    .mechp1-c2_p2 {
+        margin-left: -248px;
+        font-size: 16px;
+        margin-top: -5px;
+    }
+
+    .mechp1-c2 button {
+        margin-left: -251px;
+        margin-top: -3px;
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        border: none;
+        border: 1px solid black;
+        border-radius: 5px;
+        margin-bottom: 10px;
+    }
+
+    .mechp1-c2 button:hover {
+        background-color: black;
+        color: white;
+        border-radius: 20px;
+    }
+
+    .mechp1-icon1 {
+        font-size: 17px;
+    }
+
+    .mechp2 {
+        display: flex;
+    }
+
+    .mechp2-c1 {
+        width: 1345%;
+        height: 45%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+
+    .mechp2-c2 {
+        margin-left: 720px;
+    }
+
+    .mechp2-c2 h2 {
+        margin-left: -706px;
+        font-family: "Inconsolata", monospace;
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 200px;
+    }
+
+    .mechp2-c2_p1 {
+        margin-left: -696px;
+        font-size: 16px;
+        margin-top: 30px;
+    }
+
+    .mechp2-c2_p2 {
+        margin-left: -696px;
+        font-size: 16px;
+        margin-top: -5px;
+    }
+
+    .mechp2-c2 button {
+        margin-left: -716px;
+        margin-top: 17px;
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        border: none;
+        border: 1px solid black;
+        border-radius: 5px;
+        margin-bottom: 10px;
+
+    }
+
+    .mechp2-c2 button:hover {
+        border-radius: 20px;
+        background-color: black;
+        color: white;
+    }
+
+    .mechp1-icon1 {
+        font-size: 17px;
+    }
+
+
+
+    .mechp3 {
+        display: flex;
+    }
+
+    .mechp3-c1 {
+        width: 1100%;
+        height: 50%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+
+    .mechp3-c2 {
+        margin-left: 720px;
+    }
+
+    .mechp3-c2 h2 {
+        margin-left: -706px;
+        font-family: "Inconsolata", monospace;
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 200px;
+    }
+
+    .mechp3-c2_p1 {
+        margin-left: -696px;
+        font-size: 16px;
+        margin-top: 30px;
+    }
+
+    .mechp3-c2_p2 {
+        margin-left: -696px;
+        font-size: 16px;
+        margin-top: -5px;
+    }
+
+    .mechp3-c2 button {
+        margin-left: -716px;
+        margin-top: 17px;
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        border: none;
+        border: 1px solid black;
+        border-radius: 5px;
+        margin-bottom: 10px;
+    }
+
+    .mechp3-c2 button:hover {
+        border-radius: 20px;
+        background-color: black;
+        color: white;
+    }
+
+    .mechp3-icon1 {
+        font-size: 17px;
+    }
+
+
+
+    .mechp4 {
+        display: flex;
+    }
+
+    .mechp4-c1 {
+        width: 1100%;
+        height: 50%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+
+    .mechp4-c2 {
+        margin-left: 720px;
+    }
+
+    .mechp4-c2 h2 {
+        margin-left: -706px;
+        font-family: "Inconsolata", monospace;
+        font-size: 15px;
+        font-weight: bold;
+        margin-top: 244px;
+    }
+
+    .mechp4-c2_p1 {
+        margin-left: -696px;
+        font-size: 16px;
+        margin-top: 30px;
+    }
+
+    .mechp4-c2_p2 {
+        margin-left: -696px;
+        font-size: 16px;
+        margin-top: -5px;
+    }
+
+    .mechp4-c2 button {
+        margin-left: -716px;
+        margin-top: 17px;
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        border: none;
+        border: 1px solid black;
+        border-radius: 5px;
+        margin-bottom: 10px;
+    }
+
+    .mechp4-c2 button:hover {
+        border-radius: 20px;
+        background-color: black;
+        color: white;
+    }
+
+    .mechp4-icon1 {
+        font-size: 17px;
+    }
+
+
+    .mechp1-c1-change1 {
+        width: 86%;
+        height: 45%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .mechp1-c1-change2 {
+        width: 86%;
+        height: 45%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: -11px;
+    }
+
+    .mechp1-c1-change3 {
+        width: 86%;
+        height: 45%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: -30px;
+    }
+
+    .mechp1-c1-change4 {
+        width: 86%;
+        height: 45%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: -30px;
+    }
+
+    .mechp4-c1-change5 {
+        width: 86%;
+        height: 45%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: -32px;
+    }
+
+    .mechp1-c2-change1 {
+        margin-left: 500px;
+    }
+}
+
+@media screen and(max-width: 376px) {
+
+    .z7 {
+        width: 100%;
+    }
+
+    .mech1 {
+        margin-top: 50px;
+        margin-left: 50px;
+        margin-right: 50px;
+        box-shadow: 1px 1px 1px brown;
+    }
+
+    .mechp1 {
+        display: flex;
+    }
+
+    .mechp1-c1 {
+        width: 88%;
+        height: 45%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+
+    .mechp1-c2 h2 {
+        margin-left: -235px;
+        font-family: "Inconsolata", monospace;
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 200px;
+    }
+
+    .mechp1-c2_p1 {
+        margin-left: -248px;
+        font-size: 16px;
+        margin-top: 0px;
+    }
+
+    .mechp1-c2_p2 {
+        margin-left: -248px;
+        font-size: 16px;
+        margin-top: -5px;
+    }
+
+    .mechp1-c2 button {
+        margin-left: -251px;
+        margin-top: -3px;
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        border: none;
+        border: 1px solid black;
+        border-radius: 5px;
+        margin-bottom: 10px;
+    }
+
+    .mechp1-c2 button:hover {
+        background-color: black;
+        color: white;
+        border-radius: 20px;
+    }
+
+    .mechp1-icon1 {
+        font-size: 17px;
+    }
+
+    .mechp2 {
+        display: flex;
+    }
+
+    .mechp2-c1 {
+        width: 1100%;
+        height: 45%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+
+    .mechp2-c2 {
+        margin-left: 720px;
+    }
+
+    .mechp2-c2 h2 {
+        margin-left: -706px;
+        font-family: "Inconsolata", monospace;
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 200px;
+    }
+
+    .mechp2-c2_p1 {
+        margin-left: -696px;
+        font-size: 16px;
+        margin-top: 30px;
+    }
+
+    .mechp2-c2_p2 {
+        margin-left: -696px;
+        font-size: 16px;
+        margin-top: -5px;
+    }
+
+    .mechp2-c2 button {
+        margin-left: -716px;
+        margin-top: 17px;
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        border: none;
+        border: 1px solid black;
+        border-radius: 5px;
+        margin-bottom: 10px;
+
+    }
+
+    .mechp2-c2 button:hover {
+        border-radius: 20px;
+        background-color: black;
+        color: white;
+    }
+
+    .mechp1-icon1 {
+        font-size: 17px;
+    }
+
+
+
+    .mechp3 {
+        display: flex;
+    }
+
+    .mechp3-c1 {
+        width: 1100%;
+        height: 50%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+
+    .mechp3-c2 {
+        margin-left: 720px;
+    }
+
+    .mechp3-c2 h2 {
+        margin-left: -706px;
+        font-family: "Inconsolata", monospace;
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 200px;
+    }
+
+    .mechp3-c2_p1 {
+        margin-left: -696px;
+        font-size: 16px;
+        margin-top: 30px;
+    }
+
+    .mechp3-c2_p2 {
+        margin-left: -696px;
+        font-size: 16px;
+        margin-top: -5px;
+    }
+
+    .mechp3-c2 button {
+        margin-left: -716px;
+        margin-top: 17px;
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        border: none;
+        border: 1px solid black;
+        border-radius: 5px;
+        margin-bottom: 10px;
+    }
+
+    .mechp3-c2 button:hover {
+        border-radius: 20px;
+        background-color: black;
+        color: white;
+    }
+
+    .mechp3-icon1 {
+        font-size: 17px;
+    }
+
+
+
+    .mechp4 {
+        display: flex;
+    }
+
+    .mechp4-c1 {
+        width: 1100%;
+        height: 50%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+
+    .mechp4-c2 {
+        margin-left: 720px;
+    }
+
+    .mechp4-c2 h2 {
+        margin-left: -706px;
+        font-family: "Inconsolata", monospace;
+        font-size: 15px;
+        font-weight: bold;
+        margin-top: 200px;
+    }
+
+    .mechp4-c2_p1 {
+        margin-left: -696px;
+        font-size: 16px;
+        margin-top: 30px;
+    }
+
+    .mechp4-c2_p2 {
+        margin-left: -696px;
+        font-size: 16px;
+        margin-top: -5px;
+    }
+
+    .mechp4-c2 button {
+        margin-left: -716px;
+        margin-top: 17px;
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        border: none;
+        border: 1px solid black;
+        border-radius: 5px;
+        margin-bottom: 10px;
+    }
+
+    .mechp4-c2 button:hover {
+        border-radius: 20px;
+        background-color: black;
+        color: white;
+    }
+
+    .mechp4-icon1 {
+        font-size: 17px;
+    }
+
+
+    .mechp1-c1-change1 {
+        width: 86%;
+        height: 45%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .mechp1-c1-change2 {
+        width: 86%;
+        height: 45%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: -11px;
+    }
+
+    .mechp1-c1-change3 {
+        width: 86%;
+        height: 45%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: -30px;
+    }
+
+    .mechp1-c1-change4 {
+        width: 86%;
+        height: 45%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: -30px;
+    }
+
+    .mechp4-c1-change5 {
+        width: 86%;
+        height: 45%;
+        margin-left: 20px;
+        border-radius: 8px;
+        margin-top: 10px;
+        margin-bottom: -32px;
+    }
+
+    .mechp1-c2-change1 {
+        margin-left: 500px;
+    }
+}

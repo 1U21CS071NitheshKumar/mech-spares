@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+    .z3{
+        width: 100%;
+    }
+    .aboutimg{
+    height: 425px;
+    width: 1263px;
+    }
+    
+    .about1{
+        margin-left: 55px;
+        margin-top: -197px;
+        font-size: 65px;
+        font-weight: bold;
+        color:white;
+    }
+    
+    .about3{
+        margin-left: 40px;
+        margin-right: 40px;
+        margin-top:50px ;
+    }
+    
+    .about4{
+        margin-top: 145px;
+        margin-left: 20px;
+        font-size: 23px;
+        text-align: center;
+        font-family: "Quicksand", sans-serif;
+
+    }
+
+    @media only screen and (max-width: 780px) {
+    
+        .aboutimg{
+            height: 425px;
+            width: 780px;
+            }
+            
+            .about1{
+                margin-left: 55px;
+                margin-top: -102px;
+                font-size: 65px;
+                font-weight: bold;
+                color:white;
+            }
+            
+            .about3{
+                margin-left: 10px;
+                margin-right: 5px;
+                margin-top:10px ;
+            }
+            
+            .about4{
+                margin-top: 10px;
+               margin-left: 10px;
+               font-family: "Quicksand", sans-serif;
+
+            }
+    
+    }
+    @media only screen and (max-width: 425px) {
+    
+        .aboutimg{
+            height: 210px;
+            width: 422px;
+            }
+            
+            .about1{
+                margin-left: 22px;
+                margin-top: -61px;
+                font-size: 36px;
+                font-weight: bold;
+                color:white;
+
+            }
+            
+            .about3{
+                margin-left: 10px;
+                margin-right: 5px;
+                margin-top:10px ;
+            }
+            
+            .about4{
+                margin-top: 45px;
+               margin-left: 10px;
+               font-size: 20px;
+               font-family: "Quicksand", sans-serif;
+            }
+    
+            .z3{
+                width: 97%;
+            }
+    
+    }
+
+    @media only screen and (max-width: 375px) {
+        .z3{
+            width: 97%;
+        }
+        .aboutimg{
+            height: 210px;
+            width: 374px;
+            }
+            
+            .about1{
+                margin-left: 22px;
+                margin-top: -61px;
+                font-size: 36px;
+                font-weight: bold;
+                color:white;
+
+            }
+            
+            .about3{
+                margin-left: 10px;
+                margin-right: 5px;
+                margin-top:10px ;
+            }
+            
+            .about4{
+                margin-top: 45px;
+               margin-left: 10px;
+               font-size: 20px;
+               font-family: "Quicksand", sans-serif;
+            }
+    
+    
+    
+    }

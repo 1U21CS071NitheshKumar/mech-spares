@@ -1,0 +1,107 @@
+.addmech1 {
+    margin-left: 350px;
+    margin-right:350px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    box-shadow: 1px 1px;
+}
+
+.addmech2{
+    margin-top: 50px;
+    margin-left: 40px;
+    width: 80%;
+}
+.addmech3{
+    margin-top: 20px;
+    margin-left: 40px;
+    width: 80%;
+}
+.addmech4{
+    margin-bottom: 20px;
+    margin-top: 50px;
+    margin-left: 150px;
+    background-color: rgb(43, 42, 42);
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 2px;
+    width: 40%;
+}
+.addmech4:hover{
+    background-color: rgb(22, 21, 21);
+}
+@media only screen and (max-width: 780px){
+    .addmech1 {
+        margin-left: 150px !important;
+        margin-right:150px !important;
+        margin-top: 50px !important;
+        margin-bottom: 50px !important;
+        box-shadow: 1px 1px !important;
+    }
+    
+    .addmech2{
+        margin-top: 50px !important;
+        margin-left: 40px !important;
+        width: 80% !important;
+    }
+    .addmech3{
+        margin-top: 20px !important;
+        margin-left: 40px !important;
+        width: 80% !important;
+    }
+    .addmech4{
+        margin-bottom: 20px !important;
+        margin-top: 50px !important;
+        margin-left: 150px !important;
+        background-color: rgb(43, 42, 42) !important;
+        border: none !important;
+        border-radius: 8px !important;
+        color: white !important;
+        font-weight: 700 !important;
+        font-size: 20px !important;
+        padding: 2px !important;
+        width: 40% !important;
+    }
+    .addmech4:hover{
+        background-color: rgb(22, 21, 21) !important;
+    }
+}
+
+@media only screen and (max-width: 412px){
+    .addmech1 {
+        margin-left: 39px !important;
+        margin-right:20px !important;
+        margin-top: 50px !important;
+        margin-bottom: 50px !important;
+        box-shadow: 1px 1px !important;
+    }
+    
+    .addmech2{
+        margin-top: 50px !important;
+        margin-left: 40px !important;
+        width: 80% !important;
+    }
+    .addmech3{
+        margin-top: 20px !important;
+        margin-left: 40px !important;
+        width: 80% !important;
+    }
+    .addmech4{
+        margin-bottom: 20px !important;
+        margin-top: 50px !important;
+        margin-left: 115px !important;
+        background-color: rgb(43, 42, 42) !important;
+        border: none !important;
+        border-radius: 8px !important;
+        color: white !important;
+        font-weight: 700 !important;
+        font-size: 20px !important;
+        padding: 2px !important;
+        width: 40% !important;
+    }
+    .addmech4:hover{
+        background-color: rgb(22, 21, 21) !important;
+    }
+}
